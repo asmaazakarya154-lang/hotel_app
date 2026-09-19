@@ -23,5 +23,5 @@ A simple hotel app UI built with Flutter.
 - `assets/images` - Hotel images
 ## Screenshot Ui
 
-  <img width="1200" height="700" alt="screenshot_ui" src="https://github.com/user-attachments/assets/75ad3d86-adf2-4cef-9492-8b3352d4816d" />
+  <img width="500" height="700" alt="screenshot_ui" src="https://github.com/user-attachments/assets/75ad3d86-adf2-4cef-9492-8b3352d4816d" />
 
